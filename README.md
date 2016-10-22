@@ -16,4 +16,4 @@ This repository also contains a fair bit of information under `internal/` not di
 Feel free to poke around, but assume you are not the target audience for anything found there.
 
 
-[headshot]: imgs/Miller_Eric-c19-small.jpg
+[headshot]: internal/imgs/Miller_Eric-c19-small.jpg
